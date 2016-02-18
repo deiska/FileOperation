@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FileOperation</string>
+    <string name="read_file">Clear</string>
+</resources>
